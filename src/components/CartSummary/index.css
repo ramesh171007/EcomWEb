@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.summary-heading-card {
+  display: flex;
+  align-items: center;
+}
+.order-heading {
+  color: #616e7c;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.price-style {
+  font-size: 26px;
+}
+.item-style {
+  color: #616e7c;
+}
+.check-out-style {
+  background-color: #0b69ff;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+.order-summary-container {
+  margin-right: auto;
+  padding: 10px;
+}
